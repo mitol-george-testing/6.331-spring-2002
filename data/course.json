@@ -1,0 +1,31 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electric Power"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2540e332-fb7c-3c41-dc22-b19ac86c5c44",
+      "c67d7e35-e938-0d98-f391-7c48b893af2c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Advanced Circuit Techniques",
+  "course_description": "Following a brief classroom discussion of relevant principles, each student in this course completes the paper design of several advanced circuits such as multiplexers, sample-and-holds, gain-controlled amplifiers, analog multipliers, digital-to-analog or analog-to-digital converters, and power amplifiers. One of each student's designs is presented to the class, and one may be built and evaluated. Associated laboratory assignments emphasize the use of modern analog building blocks. This course is worth 12 Engineering Design Points.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.331",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
